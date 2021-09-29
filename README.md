@@ -9,8 +9,13 @@ Along with this "thing" that I created, I spent a lot of time in Unity, playing 
 
 I recognize that the actual code that is included in this submission did not take that much time, but coupled with the efforts that I described above, this assignment took me slightly over 10 hours even though my output is not super indicative of that.
 
-Include some screenshots.
-[Chatting](../images/chatting.png)
+[Chatting](./images/chatting.png)
+
+To run the chat client:
+
+1. Navigate to the `tutorial_socket.io` directory
+2. Run `node index.js` in the command line
+3. Navigate multiple browsers to port 3000 of your localhost 
 
 ## Who Did What?
 
