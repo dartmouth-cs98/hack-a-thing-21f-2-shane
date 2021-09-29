@@ -34,6 +34,9 @@ Shane Hewitt
 ## Acknowledgments
 
 [Unity Multiplayer](https://docs.unity3d.com/Manual/UnityMultiplayerSettingUp.html)
+
 [Handling CORS tutorial](https://socket.io/docs/v3/handling-cors/#configuration)
+
 [What I built, socket.io tutorial](https://socket.io/get-started/chat)
+
 [Socket.io in a React App tutorial](https://www.valentinog.com/blog/socket-react/)
